@@ -1,0 +1,9 @@
+# ignore all files
+
+*
+
+# except for the following:
+
+!.gitignore
+!.zshrc
+
